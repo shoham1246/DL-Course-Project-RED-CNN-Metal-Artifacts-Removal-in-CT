@@ -75,4 +75,5 @@ data_path
     └── body13
           └── ...  
 
-
+## Acknowledgements
+* This project adapts components and architecture from the [RED-CNN PyTorch implementation](https://github.com/SSinyu/RED-CNN) by SSinyu.
