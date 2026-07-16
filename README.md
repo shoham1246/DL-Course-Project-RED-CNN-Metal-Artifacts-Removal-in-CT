@@ -35,6 +35,8 @@ To ensure a fair comparison, both datasets had almost the same samples amount, a
 
 ### Data Sets Directories Hierarchy
 
+Detailed explanations could be found in the `READ ME files for data tracking` folder.
+
 1. MAYO data set
 
 ```text
@@ -107,7 +109,9 @@ data_path
     ├── body8
     │       └── ...
     └── body13
-          └── ...  
+    │       └── ...
+    └──test_masks
+            └── ...  
 ```
 ---
 
