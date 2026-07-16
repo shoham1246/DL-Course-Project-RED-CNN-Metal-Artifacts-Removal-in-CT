@@ -92,7 +92,7 @@ Install the required dependencies using `pip`:
     pip install torch torchvision pydicom optuna numpy scipy matplotlib
 
 **Core Dependencies:**
-* **Deep Learning:** `torch`, `torchvision` (PyTorch)
+* **Deep Learning:** `torch`, `torchvision` (PyTorch) ,`torchview`
 * **Medical Imaging & Vision:** `pydicom`, `scipy.ndimage`
 * **Hyperparameter Optimization:** `optuna`
 * **Data Manipulation & Plotting:** `numpy`, `matplotlib`
